@@ -1,0 +1,23 @@
+AllCops:
+  TargetRubyVersion: 2.4
+
+Style/RedundantSelf:
+  Enabled: false
+
+Style/SymbolArray:
+  Enabled: false
+
+Style/TrailingCommaInArrayLiteral:
+  Enabled: false
+
+Style/TrailingCommaInHashLiteral:
+  Enabled: false
+
+Style/TrailingCommaInArguments:
+  Enabled: false
+
+Style/WordArray:
+  Enabled: false
+
+Layout/MultilineMethodCallIndentation:
+  Enabled: false
